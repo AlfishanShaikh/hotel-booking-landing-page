@@ -103,5 +103,3 @@ Contributions are welcome – even tiny tweaks like fixing a typo or polishing a
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-
