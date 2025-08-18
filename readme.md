@@ -26,7 +26,7 @@ You can open `index.html` locally, or host the project on any static‑site serv
 
 ## 📸 Screenshots
 
-> ![Screenshot](https://github.com/AlfishanShaikh/js-project-docs/blob/a965c85ef07ee363f8f35fa009f08750c8fb07c9/banner.png)
+> ![Screenshot](https://github.com/AlfishanShaikh/hotel-booking-landing-page/blob/1432e254b272c492563f6002cbbf3dc0af3b946d/banner.png)
 
 ## ✨ Features
 
