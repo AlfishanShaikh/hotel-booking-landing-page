@@ -15,7 +15,7 @@ You can open `index.html` locally, or host the project on any static‑site serv
 
 ## 🌐 Live Demo
 
-👉 [Click Here to View Live](https://alfishanshaikh.github.io/js-project-docs/)
+👉 [Click Here to View Live](https://alfishanshaikh.github.io/hotel-booking-landing-page/)
 
 
 ## 📂 Repository Links
